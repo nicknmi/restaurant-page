@@ -59,3 +59,8 @@ nav {
     display: flex;
     gap: 24px;
 }
+
+.menu-item {
+    display: flex;
+    justify-content: space-around;
+}
